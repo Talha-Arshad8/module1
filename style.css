@@ -1,0 +1,13 @@
+.top-container{
+    background-color: lightgray;
+    height: 30px;
+}
+button{
+    padding: 20px;
+    border-radius: 10px;
+    border: transparent;
+    color: white;
+}
+nav{
+    box-shadow: 0px 0px 4px gray;
+}
